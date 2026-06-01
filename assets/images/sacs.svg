@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Sac">
+  <rect width="800" height="600" fill="#f8f1e7"/>
+  <circle cx="620" cy="110" r="120" fill="#0f766e" opacity=".12"/>
+  <rect x="245" y="210" width="310" height="250" rx="34" fill="#8b5e3c"/>
+  <path d="M320 220c0-70 160-70 160 0" fill="none" stroke="#2b2118" stroke-width="28" stroke-linecap="round"/>
+  <rect x="280" y="255" width="240" height="160" rx="24" fill="#b98355"/>
+  <circle cx="400" cy="335" r="18" fill="#f2c879"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" fill="#3a3128">Sacs</text>
+</svg>

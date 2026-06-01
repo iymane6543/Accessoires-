@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Ceinture">
+  <rect width="800" height="600" fill="#fbfaf7"/>
+  <path d="M130 315c130-95 300-95 540 0" fill="none" stroke="#7a4c28" stroke-width="54" stroke-linecap="round"/>
+  <path d="M130 315c130-95 300-95 540 0" fill="none" stroke="#b98355" stroke-width="30" stroke-linecap="round"/>
+  <rect x="522" y="250" width="126" height="108" rx="16" fill="none" stroke="#b7791f" stroke-width="22"/>
+  <path d="M540 304h94" stroke="#b7791f" stroke-width="14" stroke-linecap="round"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" fill="#3a3128">Ceintures</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Montre">
+  <rect width="800" height="600" fill="#eef7f5"/>
+  <rect x="360" y="105" width="80" height="390" rx="34" fill="#173f3b"/>
+  <circle cx="400" cy="300" r="128" fill="#ffffff" stroke="#0f766e" stroke-width="22"/>
+  <circle cx="400" cy="300" r="10" fill="#0f766e"/>
+  <path d="M400 300V220M400 300l58 42" stroke="#171717" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="400" cy="300" r="92" fill="none" stroke="#b7791f" stroke-width="4" stroke-dasharray="8 16"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" fill="#173f3b">Montres</text>
+</svg>
