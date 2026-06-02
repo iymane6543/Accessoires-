@@ -138,6 +138,3 @@ Application web complète avec architecture MVC, gestion des utilisateurs,
 catalogue, panier, commandes, administration et chatbot. Sécurité renforcée
 contre les attaques courantes.
 
-================================================================================
-                    FIN DU README
-================================================================================
