@@ -39,7 +39,9 @@ BASE DE DONNEES (boutique)
    - id, nom, prix, categorie, genre, description, image
 
 3. commandes
-   - id, utilisateur_id, total, statut, mode_paiement, date_commande
+   - id, utilisateur_id, nom_client, email_client, adresse, total, statut, en_attente,
+     date_commande, mode_paiement, paiement_statut, paiement_reference,
+     paiement_carte_last4
 
 4. details_commandes
    - id, commande_id, produit_id, quantite, prix_unitaire
