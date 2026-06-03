@@ -179,7 +179,9 @@ function traiterFormulaireProduit(?Produit $ancien = null): array
 
     if (isset($_FILES['image']) && is_array($_FILES['image']) && $_FILES['image']['error'] === UPLOAD_ERR_OK) {
         $nomOriginal = (string)$_FILES['image']['name'];
-        $extension = strtolower(pathinfo($nomOriginal, PATHINFO_EXTENSION));
+     
+        $parts = explode('.', $nomOriginal);
+        $extension = strtolower(end($parts));
         if (!in_array($extension, ['jpg', 'jpeg', 'png', 'webp'], true)) {
             return ['erreur' => 'Image invalide. Formats acceptes : jpg, png, webp.', 'data' => []];
         }
